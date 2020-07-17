@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapGis.qml</file>
+        <file>SearchBar.qml</file>
+        <file>resources/marker.png</file>
+        <file>CustomSearchDelegate.qml</file>
+        <file>CustomSearchMapDelegate.qml</file>
+    </qresource>
+</RCC>
